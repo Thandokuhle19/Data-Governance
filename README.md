@@ -1,4 +1,10 @@
 # Data-Governance
+<details>
+<summary> Charpter 1 : Defining Data Governance </summary>
+<br>
+ 
+  
+
 _What is meant by governance?_
 - Governance is the manner in which an entity chooses to oversee thhe control and direction of an area of interest.
 - It ensures how decisions are made, regulated, and enforced.
@@ -132,3 +138,4 @@ _Assessing Data Governance Readiness:_
          • Fundamental data skills are necessary for the data governance journey.
          • The IT organization should be capable and resourced to support the program.
 
+</details>
