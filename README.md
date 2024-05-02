@@ -118,3 +118,17 @@ _Maturing the Data Culture:_
         • Recognize resistance and frustration as part of the journey.
         • Provide comfort and rewards to team members.
         • Provide a channel for feedback and positive discussion.
+
+_Assessing Data Governance Readiness:_
+- Data Governance Program Design and Preparation
+          • Identifying the readiness of an organization for a data governance program is crucial.
+          • The program should align with business strategy, with senior leadership fully committed to its goals.
+          • The program should be a strategic, enterprise initiative, not solely IT department-related.
+          • Executive sponsors should be identified at the executive level.
+          • The program should be funded and maintained long-term.
+          • The program should be an ongoing project, not a one-off project.
+          • Documentation of return-on-investment (ROI) is essential.
+          • Legal and compliance teams should support the program's goals.
+         • Fundamental data skills are necessary for the data governance journey.
+         • The IT organization should be capable and resourced to support the program.
+
