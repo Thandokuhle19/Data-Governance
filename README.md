@@ -3,8 +3,6 @@
 <summary> Charpter 1 : Defining Data Governance </summary>
 <br>
  
-  
-
 _What is meant by governance?_
 - Governance is the manner in which an entity chooses to oversee thhe control and direction of an area of interest.
 - It ensures how decisions are made, regulated, and enforced.
@@ -139,3 +137,47 @@ _Assessing Data Governance Readiness:_
          • The IT organization should be capable and resourced to support the program.
 
 </details>
+
+<details>
+<summary> Charpter 2 : Exploring a World Overflowing with data </summary>
+<br>
+
+_Defining Data:_
+- Data is a common and widely used tool in our daily lives, often taken for granted.
+- However, when asked to define data, it may not be entirely accurate or even the same as colleagues' definitions.
+- It's crucial to ensure everyone is on the same page about data's meaning, especially when discussing information, knowledge, and insights.
+- It's even more important to understand data governance and management, as data governance is different from data management.
+- A solid definition of data and its role today helps us align ourselves and deliver on the promise of data governance.
+- It's essential to be on the same page and ensure everyone is on the same page about data.
+
+_Why all the focus on data:_
+- Data refers to collections of digitally stored units, such as words, numbers, and text, that represent something meaningful when processed.
+- Data is often used in singular and plural contexts, and its meaning depends on its captured format. Data can be structured, unstructured, or semi-structured, depending on its format.
+- Structured data is formatted to fit into a table in a database, while unstructured data requires processing to be used.
+- Semi-structured data contains additional information for native format analysis.
+- Units of data are largely worthless until processed and applied.
+- When combined with good governance, data can be useful in various functions, making it an important asset.
+- To begin to have value, data requires effort.
+- For example, putting the word "orange" in a sentence or converting the number 42 into information using structure and context gives the data meaning.
+- This basic action of data processing is the core foundation of an industry that has ushered in rapid digital transformation.
+- Today, the term data processing has been replaced with information technology (IT).
+
+_Welcome to the Zettabyte Era:_
+- A zettabyte is a large number, representing the volume of data created and stored in the 21st century.
+- It is 1021 bytes, or a 1 with 21 zeros. By 2020, we had created 64 zettabytes of data, and this number is projected to reach over 100 zettabytes by 2023.
+- The datasphere, which describes all data created, is projected to double in 3-4 years.
+- Each byte is made up of eight bits, which are binary and represent characters that humans can understand.
+- As data volume continues to grow, other terms will be used to describe even bigger volumes, such as Yottabyte and Brontobyte eras.
+- Effective data management is crucial in this rapidly expanding data volume, as managing small amounts of data can be challenging.
+
+_From Data to Insight:_
+- Data collection and storage should be done with a clear purpose and intent to be used in the future.
+- Data that is never used is less useful than producing reports. Knowledge, when applied to context, becomes actionable and can be applied to wisdom.
+- Wisdom helps determine the contextual validity of knowledge and can lead to deeper understanding.
+- Insight, a combination of knowledge and wisdom, is the ultimate destination derived from data, allowing for a deeper understanding and different perspectives.
+
+_The Role of Data in the 21st Century:_
+
+
+</details>
+
