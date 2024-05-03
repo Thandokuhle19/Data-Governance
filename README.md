@@ -177,7 +177,121 @@ _From Data to Insight:_
 - Insight, a combination of knowledge and wisdom, is the ultimate destination derived from data, allowing for a deeper understanding and different perspectives.
 
 _The Role of Data in the 21st Century:_
+- Data has played a crucial role in understanding the world, making informed decisions, and solving problems since the 19th and 20th centuries.
+- However, the role of data has grown since the mid-20th century with the rise of computer systems.
+- The quality and availability of data have increased, leading to the motto "Putting information at your fingertips."
+- In the early 21st century, the amount of data produced is beyond our capacity, reshaping industries, cities, and our learning, socializing, and entertainment methods.
+- This has also raised risks, with cyberattacks causing millions of dollars in losses.
 
+_Data-Driven Decision-Making:_
+- Data is valuable for making better decisions, such as reading customer reviews on websites like Hello Peter or Google Reviews.
+- It can motivate actions and make decisions easier.
+- However, data-driven decision-making is less complex and requires deep understanding of the data.
+- In the 21st century, abundant good-quality data has been beneficial for decision-making, but bad data can lead to costly mistakes.
+- Data governance plays a central role in achieving data quality, as it is the product of deliberate actions.
 
+_Data as The New Oil:_
+- Data, like oil, has the potential to drive and grow economies, but it requires processing and organization to be useful.
+- Like oil, data must be refined to understand patterns, make decisions, identify problems, and feed other systems.
+- Data is now powering the digital economies of the 21st century, with big economic powerhouses like Facebook and Google dominating.
+- However, data management is moving from a cost center to a profit center, generating new revenue sources.
+
+_Data Ownership:_
+- Accountability is crucial for proper management and is incorporated into job descriptions and projects.
+- It is essential to have accountability for every data set in an organization, which includes rights ranging from lightweight oversight to legally enforceable rules.
+- For instance, intellectual property data has high protection levels.
+- Data ownership refers to the rights an individual, team, or organization holds over data sets, ranging from minimal oversight to legally enforceable rules, particularly in cases of intellectual property.
+
+_Data Architecture:_
+- Most organizations are technology businesses, and enterprise architecture (EA) is a practice that helps organizations design and implement the right technologies, policies, and projects to support their business goals.
+- Data architecture is a subset of EA, which aligns data design and management decisions with EA and the business.
+- High-quality enterprises and data architectures help organizations run smoothly and transform as conditions dictate.
+- Data architecture supports data availability, complexity, protection, standards, and efficient use.
+- It is a reflection of data governance and is a cross-organizational responsibility, as data must flow across business silos and serve multiple audiences.
+- Data architecture ensures data availability, simplifies access, enforces protections, adopts data standards, and optimizes data flow to eliminate bottlenecks and duplication, supporting organizational policies and obligations.
+
+_The Lifecycle of Data:_
+- Data Lifecycle Overview
+       • Creation: Data creation, either manual or automated, occurs through various activities        
+                   including system inputs and outputs.
+       • Storage: Data is stored in a database, which can be a local hard drive, server, or cloud     
+                  service.
+       • Usage: Data is captured and stored for future use, possibly for analysis. It may need  
+                processing, including cleansing, transforming, and securing access rights.
+       • Archival: Data is moved to a long-term storage system for future retrieval and utilization.
+       • Destruction: Data is made inaccessible and unreadable, including physical destruction of  
+                      devices.
+- Data governance considers data being in different states at different times, with unique requirements depending on the stage of its life.
+
+_Understandig the Impact of Big Data:_
+- Data has been a part of human history, dating back to ancient Roman ledgers.
+- The Cold War and space race accelerated technological advancements, leading to microprocessors and classical computing, as well as telecommunications innovation.
+
+_The Role of the U.S. Census in the Information Revolution:_
+- Data processing has been around since the late 1800s, with the first company to automate and commercialize it being the Tabulating Machine Company.
+- This company converted handwritten census results into punched holes in cards, which were later renamed IBM.
+- Over the years, IBM and its data processing cohorts expanded automation in various aspects of life, leading to the information age.
+- Data became the raw material for productivity and ideas, and connectivity allowed information to flow freely across devices, organizations, and geographies.
+- By the turn of the century, data creation, storage, and use exploded, creating a data swamp that was difficult for traditional software applications to manage.
+
+_Defining Big Data:_
+- Big data is massive, complex data that requires new tools, skills, and processes.
+- One way to define and characterise big data is through these five:
+        • Volume: Unprecedented scale of data necessitates new tools, skills, and processes.
+        • Variety: Existing legacy file formats and new innovations necessitate different handling   
+                   methods.
+        • Velocity: Rapid data creation and movement due to numerous collection points and digital     
+                    interfaces.
+        • Variability: Unpredictability in data creation and flow.
+        • Veracity: Variability in the quality, including accuracy and truthfulness, of large volumes   
+                    of disparate data sets, posing challenges to data management.
+
+_Drivers of Big Data:_
+- In 2003, Eric Schmidt, then-CEO of Google, stated that every two days, the world was creating more data than all data created since the dawn of civilization.
+- By the third decade of the 21st century, the volume of data created had experienced a Cambrian explosion, reaching zettabytes.
+- In 2021, global technology use generated 79 zettabytes of data, with an anticipated 180 zettabytes in 2025.
+
+_Consequences of Big Data:_
+- Big data statistics are impressive, but they don't fully reveal the full picture.
+- Up to 80% of data is unstructured, which many organizations struggle with.
+- Additionally, a lot of this data is duplicative, bad data, or has errors.
+- Despite these challenges, big data is providing value to organizations and fostering innovation, such as self-driving cars and optimized supply chains.
+- The combination of hyperconnectivity and data allows marketers to understand the marketplace in detail, targeting specific audiences and individuals where the chance of a sale is highest.
+
+_What about small data?:_
+- Big data is crucial for digital economy business activities, but small data sets like spreadsheets, surveys, and lists are also valuable.
+- Big data can be broken down into smaller, manageable chunks, making it more meaningful and useful in decision-making and day-to-day operations.
+- Small data can be the only way to make sense of big data.
+
+_Enter the Realm of Smart Data:_
+- Smart data refers to big data that is optimized for specific uses, delivering the highest business value.
+- It uses new processes and tools, such as artificial intelligence, to find patterns in unstructured data and extract relevant data for specific applications.
+- This approach reduces time, lowers errors, and enables the creation of new data subsets.
+- Data governance is concerned with data in any form, ensuring its value is maximized.
 </details>
+
+<details>
+<summary> Charpter 3 : Driving Value Through Data
+</summary>
+<br>
+
+_Identifying the Roles of Data:_
+- Data is crucial for organizations, encompassing daily use across all business functions.
+- It's essential to ensure it's high-quality, secure, compliant, and accessible to the right people.
+- It's not just for data analytics or IT, but also decision-makers and leaders.
+
+_Operations:_
+- Business operations encompass a range of activities to manage an organization's daily needs and drive its mission.
+- Core functions like payroll, order management, and marketing are common in almost every organization.
+- However, not all organizations require IT or warehouse support.
+- Operations are powered by various data and information sources, and they also generate a lot of data.
+- The performance of operations can be easily quantified by data, such as in human resources (HR) functions where data is created by the activities of the function.
+- Operations use data to make decisions, enable systems to run, and deliver data to internal and external entities.
+- Support operations often use automated data functions, such as warehouse inventory systems that automatically generate replenishment orders when stock levels drop.
+- Notifications generated by systems based on triggers can help identify who hasn't submitted their time and expense report.
+- Overall, data plays a crucial role in business operations.
+- Most data scenarios involve skilled personnel, dedicated processes, and various technologies that are partially or entirely focused on handling operational data.
+ 
+</details>
+
 
