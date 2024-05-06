@@ -293,6 +293,70 @@ _Operations:_
 - Most data scenarios involve skilled personnel, dedicated processes, and various technologies that are partially or entirely focused on handling operational data.
 
 _Strategy:_
+- Organizations have a strategy, which involves creating a plan to support objectives and goals.
+- It involves understanding challenges and agreeing on solutions. Strategy and operations are interconnected, with data-driven strategies delivering operational excellence being a winning ticket.
+- The process begins with an analysis of the environment, conclusions, and a plan driven by guiding principles.
+- The availability of good quality data is crucial for processing and analyzing insights.
+- The right mix of data and non-data sources is essential for delivering expected results.
+- Strategy development should be an ongoing process, revisiting it every six months and tweaking as necessary.
+- In the 21st century, organizations need to react quickly to environmental conditions, and data will form the backbone of their response system.
+
+_Decision-Making:_
+- Data-driven decision-making is a crucial business competency, but it requires access to quality data at the right time.
+- With the vast volume and quality of data available today, it allows for better-informed decisions.
+- However, bad data can lead to failure, ranging from minor mistakes to job termination or even business closure.
+- Popular search engines like Google and Bing have transformed how we make decisions, but also have pitfalls.
+- Data-driven decision-making relies on access to quality data at the right time, and bad data can result in failure.
+
+_Measuring:_
+- Organizations continuously measure data to build a picture of their business.
+- Data measurements can be quantitative or qualitative, with quantitative data often described in numerical terms and qualitative data described in terms of language.
+- The type of information desired directly correlates with the measurement approach, which informs the choices of what, when, where, and how data is captured.
+- A general rule is to capture and measure what matters, but be cautious with limited resources and potential costs.
+- William Bruce Cameron's quote "Not everything that can be counted counts, and not everything that counts can be counted" emphasizes that not everything that can be counted counts.
+
+_Monitoring:_
+- Monitoring is an ongoing process of collecting and evaluating the performance of a project, process, system, or other item of interest.
+- It helps ensure the continuity, stability, and reliability of the supervised activities.
+- Monitoring involves the data produced by the thing being evaluated and the data produced as a product of monitoring.
+- This data feeds reports, real-time systems, and software-based dashboards, and can guide decisions.
+- The role of data in measurement and monitoring often go hand-in-hand, as data is a connective tissue that binds business functions.
+- This interdependence requires oversight and controls, as stakeholders often have different responsibilities and permissions.
+- Data monitoring also evaluates the quality of data, determining if it is fit for purpose.
+- By continuously monitoring the quality of data, opportunities and issues can be revealed in a timely manner, allowing for appropriate actions to be prioritized.
+
+_Insight Management:_
+- Data is crucial for business functions and decision-making, providing valuable information that can make a difference.
+- However, it requires a management process to ensure data and information are capable of delivering insights.
+- Insight management involves gathering and analyzing data from various sources, understanding the organization's information needs, and interpreting the data's implications.
+- Effective communication of findings is essential for aligning with organizational goals.
+- The right information, at the right time, in the right format, and for the right people is crucial for valuable insights.
+- Knowledge management supports organizational support structures and tools for enabling insight availability.
+
+_Reporting:_
+- Reports are a crucial aspect of data and information management in any organization.
+- They are essential for creating, delivering, receiving, and acting on data, making them the backbone of every business.
+- Reports contain structured data and information, such as expenditure reports, which provide a basic overview and relevant information.
+- Visuals, such as charts, are popular for presenting data and facilitating interpretation.
+- Reports can be online or physical, and can be given verbally, in person, or via video.
+- The purpose of reporting is largely to improve decision-making, empower business leaders, and communicate plans and policies.
+- However, knowing something is not the equivalent of making the right choices at the right time.
+
+_Other Roles for Data:_
+- Data is essential in various aspects of organizations, including artificial intelligence (AI), problem-solving, and data reuse.
+- AI relies on data for learning patterns, identifying relationships, and determining probabilities.
+- Problem-solving involves defining problems, determining available solutions, evaluating them, and measuring their success.
+- Data reuse can reduce data collection duplication and increase the value of data to an organization. However, it must be managed carefully to avoid breaking data use rules. High-value shared data sets, called master data, are subject to master data management in data governance.
+
+_Imporving Outcomes with Data:_
+- Now we have identified and discussed the diverse roles, it's important to understand how data can be leveraged to its maximum value.
+- It starts with identifying that data is an organizational asset meaning it brings economic value to the organization.
+- Data gets differently when it is considered to be high-value.
+- The function that is mainly associated with data is the process of exploring it and looking for insights.
+
+_Approaching Data as an Asset:_
+- Asset: something owned by a person, an organization, or governemnt with the expection of bringing economic benegit.
+- This includes the generation of income, the reduction of expenses, or an increase in net worth.
 - 
 
 
