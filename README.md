@@ -1,6 +1,6 @@
 # Data-Governance
 <details>
-<summary> Charpter 1 : Defining Data Governance </summary>
+<summary> Charpter 1 : Defining Data Governance (Week 1) </summary>
 <br>
  
 _What is meant by governance?_
@@ -139,7 +139,7 @@ _Assessing Data Governance Readiness:_
 </details>
 
 <details>
-<summary> Charpter 2 : Exploring a World Overflowing with data </summary>
+<summary> Charpter 2 : Exploring a World Overflowing with data (Week 1) </summary>
 <br>
 
 _Defining Data:_
@@ -271,7 +271,7 @@ _Enter the Realm of Smart Data:_
 </details>
 
 <details>
-<summary> Charpter 3 : Driving Value Through Data
+<summary> Charpter 3 : Driving Value Through Data (Week 2)
 </summary>
 <br>
 
@@ -357,9 +357,68 @@ _Imporving Outcomes with Data:_
 _Approaching Data as an Asset:_
 - Asset: something owned by a person, an organization, or governemnt with the expection of bringing economic benegit.
 - This includes the generation of income, the reduction of expenses, or an increase in net worth.
+- Assets, both tangible and intangible, are crucial for organizations as they are often captured in their financial accounts.
+- Intangible assets, such as data, can create significant economic value for various stakeholders, such as improving operations, increasing revenue, building relationships, enhancing product quality, contributing to competitive advantage, enabling innovation, and reducing risk.
+- However, data is not typically captured on an organization's balance sheet, and the debate on its representation in financials is ongoing.
+- Recognizing data as an asset is the first step to good data governance.
+- It is essential to understand its value, its accuracy, completeness, and validity, and to manage it effectively.
+- Good data governance involves understanding the roles and accountabilities of data management, as well as ensuring that it is managed effectively.
+- In essence, data is an asset that must be governed for its value to be leveraged effectively.
+
+_Data Analytics:_
+- Data analytics is the process of examining data to produce answers or conclusions.
+- A data analyst conducts a formal and disciplined approach to make good decisions for an organization.
+- Data analytics has four primary types: descriptive, diagnostic, predictive, and prescriptive.
+- Descriptive analysis uses historical data to determine past performance, diagnostics to understand why something happened, predictive analytics to predict future outcomes, and prescriptive analysis to determine action.
+- Data analytics uses various software tools, such as R, Python, Tableau, Power BI, and QlikView.
+- If an organization has the budget, having one or more data analysts is a minimum requirement.
+- However, basic data analytic skills are essential for most staff in a data-centric, digital world.
+
+_Data Management:_
+- Data management and data governance are closely related, focusing on enhancing the quality and value of organizational data through roles, policies, controls, and processes.
+- Data management is the implementation of data governance, while data governance is wishful thinking.
+- The sophistication of data management is crucial, as poor management can lead to data silos, security issues, errors, and low confidence in data quality.
+
+_Who would choose to make decisions based on bad data:_
+- Good data management leads to increased market success, richer insights, smoother operations, and informed decision-making.
+- It involves data collection, storage, organization, maintenance, and analytics, including technology system architecture.
+- Responsibilities include data standardization, encryption, and archiving.
+- Technology team members have elevated roles, while all business stakeholders have data responsibilities, such as compliance with policies and realizing data value.
+
+_Governing Data:_
+- Governing data is crucial for organizations to fully realize their potential and avoid disasters or missed opportunities.
+- It involves three essential factors: people, policies, and metrics.
+- People are subject matter experts responsible for quality and overseeing related processes.
+- Policies are adopted rules for handling data in specific conditions and desired outcomes, such as quality, privacy, retention, and security.
+- The number of policies depends on the size of the organization, industry, and the high-priority asset of data.
+- Metrics must be in support of both technical and business needs, and should decrease over time to ensure effective data governance.
+- Without proper governance, data can be a disaster or missed opportunity.
+
+</details>
+
+<details>
+<summary> Charpter 4 : Transforming Through Data (Week 2)
+</summary>
+<br>
+
+_Examining the Broader Value of Data:_
+- Data democratization is the ability for team members to access data without relying on specialists.
+- As organizations grow, data sets become siloed, hindering business efficiencies and increasing inconsistencies.
+- Data governance helps eliminate these silos and makes data discoverable whenever it adds value.
+- Data catalogs are essential for data governance.
+- However, most organizations lack a universal search engine to locate and serve up data.
+- Business leaders spend 70% of their time trying to find data and 30% analyzing it.
+- Accessing data from the internet is often easier than using internal search systems.
+- Knowledge of available data is essential for better informed decision-making, compliance, lower costs, improved data analytics, higher-performing systems, more efficient operations, and reducing data inconsistencies.
+- The vendor community can help build internal search capabilities and with investment and effort, finding data and information in the enterprise is possible.
+
+_Data Catalogs:_
+- To help your organization find data, consider creating an enterprise search engine or an enterprise data catalog.
+- These tools offer advantages such as finding useful data, understanding data, and making data more useful.
+- They help users identify and locate relevant data, answer questions about data purpose and usage, and create visibility and access to information.
+- When used correctly, a data catalog provides an enterprise view of all data, enabling insights and enhancing data governance.
 - 
 
 
 </details>
-
 
