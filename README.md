@@ -1,6 +1,6 @@
 # Data-Governance
 <details>
-<summary> Charpter 1 : Defining Data Governance (Week 1) </summary>
+<summary> Charpter 1 : Defining Data Governance  </summary>
 <br>
  
 _What is meant by governance?_
@@ -27,7 +27,7 @@ _What is data governance?_
 _Data Governance vs Data Management:_
 - Data governance and data management are often confused in the EIM space, with data governance focusing on roles, policies, and data lifecycle, while data management involves technical implementation of data governance through databases, data warehouses, and analytics software.
 
-_Data Governance vs Informatio Governance:_
+_Data Governance vs Information Governance:_
 - In EIM, data governance and information governance are often confused.
 - Data governance focuses on data, while information governance focuses on its meaning and its relationship with outcomes and value.
 - Data governance practitioners may operate in both worlds daily, but understanding the context of data and desired business outcomes can complement data governance efforts effectively.
@@ -139,7 +139,7 @@ _Assessing Data Governance Readiness:_
 </details>
 
 <details>
-<summary> Charpter 2 : Exploring a World Overflowing with data (Week 1) </summary>
+<summary> Charpter 2 : Exploring a World Overflowing with data </summary>
 <br>
 
 _Defining Data:_
@@ -271,7 +271,7 @@ _Enter the Realm of Smart Data:_
 </details>
 
 <details>
-<summary> Charpter 3 : Driving Value Through Data (Week 2)
+<summary> Charpter 3 : Driving Value Through Data
 </summary>
 <br>
 
@@ -397,7 +397,7 @@ _Governing Data:_
 </details>
 
 <details>
-<summary> Charpter 4 : Transforming Through Data (Week 2)
+<summary> Charpter 4 : Transforming Through Data 
 </summary>
 <br>
 
